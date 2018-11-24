@@ -1,2 +1,3 @@
 # ml_app
-Flaskで機械学習を使ったアプリ開発
+Made an app using Flask.
+`flaskr.py` is for Flask Tutorial.
